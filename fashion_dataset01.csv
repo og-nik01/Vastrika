@@ -1,0 +1,185 @@
+id,image_url,State/UT,religion,category,season,suitable_occassions,suitable_body_types,Skin_tone,gender,color_family,fabric,class_label
+FASH_001,https://img.cdn/1.jpg,Punjab,Sikh,Ethnic,Winter,Wedding,Athletic,Fair,Male,Maroon,Velvet,Sherwani
+FASH_002,https://img.cdn/2.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Festival,Pear,Wheatish,Female,Yellow,Kanchipuram Silk,Saree
+FASH_003,https://img.cdn/3.jpg,Maharashtra,Hindu,Western,Monsoon,Corporate,Petite,Dusk,Female,Navy Blue,Cotton,Kurti
+FASH_004,https://img.cdn/4.jpg,West Bengal,Hindu,Ethnic,Autumn,Durga Puja,Hourglass,Fair,Female,Red,Garad Silk,Saree
+FASH_005,https://img.cdn/5.jpg,Rajasthan,None,Ethnic,Summer,Haldi,Slim,Fair,Male,Mustard,Linen,Kurta Pyjama
+FASH_006,https://img.cdn/6.jpg,Kerala,Christian,Ethnic,Summer,Wedding,Apple,Medium,Female,White,Kasavu,Saree
+FASH_007,https://img.cdn/7.jpg,Uttar Pradesh,Muslim,Ethnic,Winter,Nikah,Rectangle,Wheatish,Female,Green,Silk,Gharara
+FASH_008,https://img.cdn/8.jpg,Gujarat,Hindu,Ethnic,Autumn,Garba,Athletic,Fair,Male,Multi,Cotton,Kediyu
+FASH_009,https://img.cdn/9.jpg,Goa,Christian,Western,Summer,Beach,Slim,Fair,Female,Pastel,Chiffon,Maxi Dress
+FASH_010,https://img.cdn/10.jpg,Assam,Hindu,Ethnic,Spring,Bihu,Hourglass,Dusk,Female,Cream,Muga Silk,Mekhela Chador
+FASH_011,https://img.cdn/11.jpg,Karnataka,Hindu,Ethnic,Summer,Temple,Rectangle,Medium,Male,White,Cotton,Dhoti Kurta
+FASH_012,https://img.cdn/12.jpg,Delhi,None,Western,Winter,Party,Athletic,Fair,Female,Black,Leather,Jacket
+FASH_013,https://img.cdn/13.jpg,Kashmir,Muslim,Ethnic,Winter,Casual,Slim,Fair,Male,Brown,Wool,Pheran
+FASH_014,https://img.cdn/14.jpg,Telangana,Hindu,Ethnic,Monsoon,Reception,Pear,Wheatish,Female,Purple,Banarasi,Lehenga
+FASH_015,https://img.cdn/15.jpg,Bihar,Hindu,Ethnic,Summer,Chhath Puja,Petite,Medium,Female,Orange,Cotton,Saree
+FASH_016,https://img.cdn/16.jpg,Punjab,Sikh,Ethnic,Winter,Lohri,Rectangle,Fair,Female,Pink,Phulkari,Salwar Kameez
+FASH_017,https://img.cdn/17.jpg,Madhya Pradesh,Hindu,Ethnic,Summer,Corporate,Apple,Dusk,Male,Grey,Chanderi,Kurta
+FASH_018,https://img.cdn/18.jpg,Odisha,Hindu,Ethnic,Autumn,Festival,Hourglass,Wheatish,Female,Indigo,Sambalpuri,Saree
+FASH_019,https://img.cdn/19.jpg,Maharashtra,Hindu,Ethnic,Summer,Ganesh Chaturthi,Athletic,Medium,Male,Yellow,Silk,Pitambar
+FASH_020,https://img.cdn/20.jpg,Ladakh,Buddhist,Ethnic,Winter,Festival,Slim,Fair,Female,Red,Wool,Goncha
+FASH_021,https://img.cdn/21.jpg,Haryana,Hindu,Ethnic,Winter,Wedding,Rectangle,Fair,Male,White,Cotton,Kurta
+FASH_022,https://img.cdn/22.jpg,Sikkim,Buddhist,Ethnic,Spring,Casual,Petite,Fair,Female,Blue,Silk,Bakhu
+FASH_023,https://img.cdn/23.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Wedding,Hourglass,Wheatish,Female,Gold,Kanchipuram,Saree
+FASH_024,https://img.cdn/24.jpg,Kerala,None,Western,Summer,Casual,Athletic,Dusk,Male,Blue,Denim,Shirt
+FASH_025,https://img.cdn/25.jpg,Rajasthan,Hindu,Ethnic,Summer,Wedding,Pear,Medium,Female,Pink,Bandhani,Lehenga
+FASH_026,https://img.cdn/26.jpg,Gujarat,Hindu,Ethnic,Winter,Wedding,Rectangle,Wheatish,Male,Maroon,Velvet,Bandhgala
+FASH_027,https://img.cdn/27.jpg,West Bengal,None,Western,Autumn,Party,Slim,Fair,Female,Silver,Sequins,Cocktail Dress
+FASH_028,https://img.cdn/28.jpg,Punjab,Sikh,Ethnic,Spring,Baisakhi,Athletic,Fair,Male,Yellow,Cotton,Kurta
+FASH_029,https://img.cdn/29.jpg,Bihar,Hindu,Ethnic,Winter,Wedding,Hourglass,Wheatish,Female,Red,Silk,Tussar Saree
+FASH_030,https://img.cdn/30.jpg,Andhra Pradesh,Hindu,Ethnic,Summer,Festival,Petite,Dusk,Female,Green,Gadwal,Saree
+FASH_031,https://img.cdn/31.jpg,Nagaland,None,Ethnic,Winter,Festival,Rectangle,Fair,Male,Black,Handloom,Traditional Shawl
+FASH_032,https://img.cdn/32.jpg,Meghalaya,Christian,Ethnic,Monsoon,Wedding,Pear,Fair,Female,Pastel,Jainsem,Silk Dress
+FASH_033,https://img.cdn/33.jpg,Uttar Pradesh,Hindu,Ethnic,Summer,Haldi,Athletic,Medium,Male,Yellow,Chikan,Kurta
+FASH_034,https://img.cdn/34.jpg,Delhi,None,Western,Winter,Corporate,Slim,Fair,Male,Blue,Wool,Formal Suit
+FASH_035,https://img.cdn/35.jpg,Maharashtra,Hindu,Ethnic,Autumn,Festival,Hourglass,Dusk,Female,Orange,Paithani,Saree
+FASH_036,https://img.cdn/36.jpg,Karnataka,Hindu,Ethnic,Summer,Wedding,Rectangle,Wheatish,Male,Cream,Mysore Silk,Panche
+FASH_037,https://img.cdn/37.jpg,Telangana,Muslim,Ethnic,Winter,Reception,Petite,Fair,Female,Peach,Net,Anarkali
+FASH_038,https://img.cdn/38.jpg,Assam,Hindu,Ethnic,Spring,Casual,Apple,Medium,Male,White,Cotton,Kurta
+FASH_039,https://img.cdn/39.jpg,Goa,Christian,Western,Summer,Party,Slim,Fair,Female,Floral,Georgette,Sun Dress
+FASH_040,https://img.cdn/40.jpg,Jharkhand,Hindu,Ethnic,Summer,Festival,Hourglass,Dusk,Female,Red,Cotton,Tussar Saree
+FASH_041,https://img.cdn/41.jpg,Punjab,Sikh,Ethnic,Winter,Wedding,Rectangle,Fair,Male,Black,Wool,Achkan
+FASH_042,https://img.cdn/42.jpg,Himachal Pradesh,Hindu,Ethnic,Winter,Festival,Slim,Fair,Female,Green,Wool,Pattu
+FASH_043,https://img.cdn/43.jpg,Gujarat,Hindu,Ethnic,Autumn,Dandiya,Pear,Wheatish,Female,Multi,Cotton,Chaniya Choli
+FASH_044,https://img.cdn/44.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Corporate,Athletic,Dusk,Female,Grey,Cotton,Saree
+FASH_045,https://img.cdn/45.jpg,Rajasthan,Hindu,Ethnic,Summer,Festival,Petite,Medium,Male,Orange,Cotton,Angarkha
+FASH_046,https://img.cdn/46.jpg,Kerala,Hindu,Ethnic,Summer,Festival,Hourglass,Fair,Female,Off-white,Cotton,Mundum Neriyathum
+FASH_047,https://img.cdn/47.jpg,Manipur,Hindu,Ethnic,Spring,Festival,Slim,Fair,Female,Pink,Silk,Phanek
+FASH_048,https://img.cdn/48.jpg,Uttar Pradesh,Muslim,Ethnic,Winter,Wedding,Rectangle,Wheatish,Male,Navy,Silk,Sherwani
+FASH_049,https://img.cdn/49.jpg,West Bengal,Hindu,Ethnic,Summer,Casual,Apple,Medium,Female,White,Tant,Saree
+FASH_050,https://img.cdn/50.jpg,Delhi,None,Western,Summer,Party,Petite,Fair,Female,Gold,Satin,Slip Dress
+FASH_051,https://img.cdn/51.jpg,Maharashtra,Hindu,Ethnic,Winter,Wedding,Athletic,Dusk,Female,Purple,Nauvari,Saree
+FASH_052,https://img.cdn/52.jpg,Karnataka,Hindu,Ethnic,Summer,Festival,Slim,Wheatish,Male,Green,Silk,Kurta
+FASH_053,https://img.cdn/53.jpg,Odisha,Hindu,Ethnic,Autumn,Wedding,Pear,Fair,Female,Red,Bomkai,Saree
+FASH_054,https://img.cdn/54.jpg,Punjab,Hindu,Western,Winter,Party,Rectangle,Fair,Male,Tan,Leather,Jacket
+FASH_055,https://img.cdn/55.jpg,Bihar,Hindu,Ethnic,Summer,Casual,Petite,Medium,Male,Blue,Khadi,Kurta
+FASH_056,https://img.cdn/56.jpg,Assam,Christian,Western,Summer,Wedding,Hourglass,Fair,Female,White,Lace,Gown
+FASH_057,https://img.cdn/57.jpg,Gujarat,Muslim,Ethnic,Winter,Nikah,Slim,Wheatish,Female,Turquoise,Chiffon,Sharara
+FASH_058,https://img.cdn/58.jpg,Rajasthan,Hindu,Ethnic,Summer,Mehendi,Athletic,Dusk,Female,Yellow,Gota Patti,Lehenga
+FASH_059,https://img.cdn/59.jpg,Telangana,Hindu,Ethnic,Autumn,Festival,Rectangle,Medium,Male,Cream,Silk,Veshti
+FASH_060,https://img.cdn/60.jpg,Kashmir,Muslim,Ethnic,Winter,Wedding,Hourglass,Fair,Female,Red,Velvet,Tilla Saree
+FASH_061,https://img.cdn/61.jpg,Haryana,Hindu,Ethnic,Summer,Casual,Apple,Wheatish,Female,Green,Cotton,Daman
+FASH_062,https://img.cdn/62.jpg,Goa,Christian,Western,Winter,Corporate,Slim,Fair,Male,Charcoal,Wool,Blazer
+FASH_063,https://img.cdn/63.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Wedding,Pear,Dusk,Female,Maroon,Silk,Saree
+FASH_064,https://img.cdn/64.jpg,West Bengal,None,Western,Summer,Casual,Athletic,Fair,Male,White,Linen,Shirt
+FASH_065,https://img.cdn/65.jpg,Punjab,Sikh,Ethnic,Winter,Reception,Hourglass,Fair,Female,Blue,Silk,Lehenga
+FASH_066,https://img.cdn/66.jpg,Uttar Pradesh,Hindu,Ethnic,Summer,Wedding,Rectangle,Medium,Male,Gold,Silk,Sherwani
+FASH_067,https://img.cdn/67.jpg,Kerala,Christian,Western,Summer,Baptism,Petite,Fair,Male,White,Cotton,Suit
+FASH_068,https://img.cdn/68.jpg,Maharashtra,Hindu,Ethnic,Monsoon,Corporate,Slim,Dusk,Female,Beige,Cotton,Salwar Kameez
+FASH_069,https://img.cdn/69.jpg,Gujarat,Hindu,Ethnic,Autumn,Garba,Apple,Wheatish,Male,Red,Cotton,Kediyu
+FASH_070,https://img.cdn/70.jpg,Delhi,None,Western,Spring,Casual,Hourglass,Fair,Female,Denim,Cotton,Jacket
+FASH_071,https://img.cdn/71.jpg,Rajasthan,Hindu,Ethnic,Summer,Festival,Athletic,Medium,Female,Multi,Leheriya,Saree
+FASH_072,https://img.cdn/72.jpg,Kashmir,Muslim,Ethnic,Winter,Casual,Slim,Fair,Female,Grey,Pashmina,Shawl
+FASH_073,https://img.cdn/73.jpg,Madhya Pradesh,Hindu,Ethnic,Summer,Wedding,Pear,Wheatish,Female,Yellow,Maheshwari,Saree
+FASH_074,https://img.cdn/74.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Temple,Rectangle,Dusk,Male,White,Cotton,Angavastram
+FASH_075,https://img.cdn/75.jpg,Punjab,Sikh,Ethnic,Winter,Wedding,Hourglass,Fair,Female,Pink,Net,Lehenga
+FASH_076,https://img.cdn/76.jpg,Assam,Hindu,Ethnic,Summer,Casual,Petite,Medium,Female,Cream,Cotton,Eri Silk Kurti
+FASH_077,https://img.cdn/77.jpg,West Bengal,Hindu,Ethnic,Autumn,Festival,Athletic,Fair,Male,Red,Dhuti Panjabi,Set
+FASH_078,https://img.cdn/78.jpg,Telangana,Muslim,Ethnic,Winter,Nikah,Slim,Wheatish,Male,Black,Silk,Sherwani
+FASH_079,https://img.cdn/79.jpg,Goa,None,Western,Summer,Beach,Hourglass,Fair,Female,Blue,Rayon,Sarong
+FASH_080,https://img.cdn/80.jpg,Karnataka,Hindu,Ethnic,Summer,Wedding,Pear,Dusk,Female,Green,Ilkal,Saree
+FASH_081,https://img.cdn/81.jpg,Odisha,Hindu,Ethnic,Spring,Festival,Rectangle,Medium,Male,Orange,Sambalpuri,Kurta
+FASH_082,https://img.cdn/82.jpg,Himachal Pradesh,Hindu,Ethnic,Winter,Casual,Apple,Fair,Male,Grey,Wool,Himachali Cap
+FASH_083,https://img.cdn/83.jpg,Gujarat,Hindu,Ethnic,Summer,Wedding,Slim,Wheatish,Female,Peach,Georgette,Lehenga
+FASH_084,https://img.cdn/84.jpg,Uttar Pradesh,Muslim,Ethnic,Winter,Reception,Hourglass,Fair,Female,Silver,Satin,Gharara
+FASH_085,https://img.cdn/85.jpg,Maharashtra,Hindu,Western,Summer,Corporate,Athletic,Medium,Male,Blue,Cotton,Formal Shirt
+FASH_086,https://img.cdn/86.jpg,Kerala,Hindu,Ethnic,Summer,Wedding,Petite,Dusk,Female,White,Silk,Mundum Neriyathum
+FASH_087,https://img.cdn/87.jpg,Punjab,Sikh,Ethnic,Spring,Baisakhi,Rectangle,Fair,Female,Orange,Cotton,Patiala Suit
+FASH_088,https://img.cdn/88.jpg,Bihar,Hindu,Ethnic,Summer,Chhath,Apple,Medium,Female,Yellow,Cotton,Saree
+FASH_089,https://img.cdn/89.jpg,Rajasthan,Hindu,Ethnic,Summer,Wedding,Slim,Fair,Male,Beige,Silk,Sherwani
+FASH_090,https://img.cdn/90.jpg,Delhi,None,Western,Winter,Party,Hourglass,Fair,Female,Red,Velvet,Mini Dress
+FASH_091,https://img.cdn/91.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Festival,Pear,Dusk,Female,Blue,Silk,Saree
+FASH_092,https://img.cdn/92.jpg,Gujarat,Hindu,Ethnic,Autumn,Garba,Athletic,Wheatish,Female,Multi,Mirror work,Lehenga
+FASH_093,https://img.cdn/93.jpg,West Bengal,Hindu,Ethnic,Summer,Casual,Rectangle,Fair,Male,White,Khadi,Kurta
+FASH_094,https://img.cdn/94.jpg,Assam,Hindu,Ethnic,Spring,Bihu,Slim,Fair,Male,Cream,Cotton,Gamocha
+FASH_095,https://img.cdn/95.jpg,Karnataka,Hindu,Ethnic,Summer,Reception,Hourglass,Medium,Female,Purple,Mysore Silk,Saree
+FASH_096,https://img.cdn/96.jpg,Goa,Christian,Western,Summer,Wedding,Pear,Fair,Female,White,Satin,Gown
+FASH_097,https://img.cdn/97.jpg,Uttar Pradesh,Hindu,Ethnic,Summer,Casual,Rectangle,Wheatish,Male,Grey,Chikan,Kurta
+FASH_098,https://img.cdn/98.jpg,Maharashtra,None,Western,Winter,Party,Athletic,Fair,Female,Black,Sequins,Top
+FASH_099,https://img.cdn/99.jpg,Telangana,Muslim,Ethnic,Winter,Nikah,Petite,Fair,Female,Green,Silk,Sharara
+FASH_100,https://img.cdn/100.jpg,Punjab,Sikh,Ethnic,Winter,Wedding,Hourglass,Fair,Male,Blue,Velvet,Sherwani
+FASH_101,https://img.cdn/101.jpg,Sikkim,Buddhist,Ethnic,Winter,Festival,Slim,Fair,Male,Red,Wool,Kho
+FASH_102,https://img.cdn/102.jpg,Jharkhand,Hindu,Ethnic,Summer,Casual,Pear,Dusk,Female,White,Cotton,Santhali Saree
+FASH_103,https://img.cdn/103.jpg,Kerala,Christian,Ethnic,Summer,Wedding,Rectangle,Medium,Female,Cream,Gold Tissue,Saree
+FASH_104,https://img.cdn/104.jpg,Delhi,None,Western,Autumn,Corporate,Apple,Fair,Male,Charcoal,Wool,Blazer
+FASH_105,https://img.cdn/105.jpg,Rajasthan,Hindu,Ethnic,Summer,Mehendi,Hourglass,Wheatish,Female,Green,Bandhani,Lehenga
+FASH_106,https://img.cdn/106.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Wedding,Slim,Dusk,Male,Cream,Silk,Veshti
+FASH_107,https://img.cdn/107.jpg,Gujarat,Hindu,Ethnic,Winter,Wedding,Rectangle,Fair,Female,Maroon,Patola,Saree
+FASH_108,https://img.cdn/108.jpg,Kashmir,Muslim,Ethnic,Winter,Wedding,Hourglass,Fair,Male,Brown,Wool,Achkan
+FASH_109,https://img.cdn/109.jpg,West Bengal,Hindu,Ethnic,Autumn,Puja,Petite,Fair,Female,Red,Silk,Saree
+FASH_110,https://img.cdn/110.jpg,Bihar,Hindu,Ethnic,Summer,Corporate,Athletic,Medium,Male,White,Silk,Kurta
+FASH_111,https://img.cdn/111.jpg,Punjab,Sikh,Ethnic,Winter,Wedding,Pear,Fair,Female,Pink,Silk,Salwar Kameez
+FASH_112,https://img.cdn/112.jpg,Maharashtra,Hindu,Ethnic,Summer,Ganesh Chaturthi,Rectangle,Wheatish,Male,Orange,Cotton,Kurta
+FASH_113,https://img.cdn/113.jpg,Goa,Christian,Western,Summer,Party,Slim,Fair,Female,Floral,Cotton,Dress
+FASH_114,https://img.cdn/114.jpg,Karnataka,Hindu,Ethnic,Summer,Temple,Hourglass,Dusk,Female,Yellow,Silk,Saree
+FASH_115,https://img.cdn/115.jpg,Assam,Hindu,Ethnic,Spring,Festival,Apple,Medium,Male,White,Silk,Kurta
+FASH_116,https://img.cdn/116.jpg,Uttar Pradesh,Muslim,Ethnic,Winter,Wedding,Slim,Fair,Female,Blue,Zardozi,Lehenga
+FASH_117,https://img.cdn/117.jpg,Haryana,Hindu,Ethnic,Summer,Festival,Athletic,Wheatish,Male,White,Cotton,Kurta
+FASH_118,https://img.cdn/118.jpg,Odisha,Hindu,Ethnic,Autumn,Wedding,Pear,Fair,Female,Purple,Khandua,Saree
+FASH_119,https://img.cdn/119.jpg,Telangana,Hindu,Ethnic,Summer,Reception,Rectangle,Medium,Male,Black,Silk,Sherwani
+FASH_120,https://img.cdn/120.jpg,Kashmir,Muslim,Ethnic,Winter,Casual,Hourglass,Fair,Female,Tan,Wool,Pheran
+FASH_121,https://img.cdn/121.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Wedding,Slim,Dusk,Female,Gold,Kanchipuram,Saree
+FASH_122,https://img.cdn/122.jpg,Rajasthan,Hindu,Ethnic,Summer,Festival,Petite,Wheatish,Male,Multi,Cotton,Pagri
+FASH_123,https://img.cdn/123.jpg,Gujarat,Hindu,Ethnic,Autumn,Garba,Athletic,Fair,Female,Green,Cotton,Lehenga
+FASH_124,https://img.cdn/124.jpg,Kerala,Hindu,Ethnic,Summer,Festival,Hourglass,Medium,Male,Off-white,Cotton,Mundu
+FASH_125,https://img.cdn/125.jpg,Delhi,None,Western,Winter,Corporate,Pear,Fair,Female,Grey,Wool,Suit
+FASH_126,https://img.cdn/126.jpg,West Bengal,Hindu,Ethnic,Summer,Casual,Rectangle,Fair,Female,White,Cotton,Saree
+FASH_127,https://img.cdn/127.jpg,Punjab,Sikh,Ethnic,Spring,Wedding,Slim,Fair,Male,Pink,Silk,Sherwani
+FASH_128,https://img.cdn/128.jpg,Bihar,Hindu,Ethnic,Winter,Wedding,Hourglass,Wheatish,Female,Red,Silk,Saree
+FASH_129,https://img.cdn/129.jpg,Maharashtra,Hindu,Ethnic,Summer,Casual,Apple,Dusk,Male,Blue,Cotton,Kurta
+FASH_130,https://img.cdn/130.jpg,Goa,Christian,Western,Winter,Party,Petite,Fair,Female,Black,Satin,Evening Gown
+FASH_131,https://img.cdn/131.jpg,Uttar Pradesh,Muslim,Ethnic,Summer,Haldi,Athletic,Medium,Female,Yellow,Chikan,Anarkali
+FASH_132,https://img.cdn/132.jpg,Karnataka,Hindu,Ethnic,Summer,Wedding,Pear,Wheatish,Male,Cream,Silk,Veshti
+FASH_133,https://img.cdn/133.jpg,Assam,Hindu,Ethnic,Spring,Casual,Slim,Fair,Female,Blue,Silk,Mekhela
+FASH_134,https://img.cdn/134.jpg,Telangana,Muslim,Ethnic,Winter,Wedding,Rectangle,Medium,Male,White,Silk,Kurta
+FASH_135,https://img.cdn/135.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Festival,Hourglass,Dusk,Female,Orange,Silk,Saree
+FASH_136,https://img.cdn/136.jpg,Gujarat,Hindu,Ethnic,Winter,Reception,Athletic,Fair,Male,Grey,Silk,Indo-Western
+FASH_137,https://img.cdn/137.jpg,Kashmir,Muslim,Ethnic,Winter,Wedding,Petite,Fair,Female,Red,Silk,Saree
+FASH_138,https://img.cdn/138.jpg,Rajasthan,Hindu,Ethnic,Summer,Casual,Slim,Wheatish,Male,Blue,Cotton,Kurta
+FASH_139,https://img.cdn/139.jpg,West Bengal,None,Western,Summer,Party,Hourglass,Fair,Female,White,Lace,Dress
+FASH_140,https://img.cdn/140.jpg,Punjab,Sikh,Ethnic,Winter,Lohri,Apple,Fair,Male,Black,Cotton,Kurta
+FASH_141,https://img.cdn/141.jpg,Kerala,Christian,Western,Summer,Casual,Rectangle,Medium,Female,Blue,Cotton,Top
+FASH_142,https://img.cdn/142.jpg,Maharashtra,Hindu,Ethnic,Summer,Wedding,Pear,Dusk,Female,Green,Paithani,Saree
+FASH_143,https://img.cdn/143.jpg,Delhi,None,Western,Winter,Casual,Athletic,Fair,Male,Black,Denim,Jacket
+FASH_144,https://img.cdn/144.jpg,Uttar Pradesh,Hindu,Ethnic,Summer,Wedding,Hourglass,Wheatish,Female,Pink,Silk,Lehenga
+FASH_145,https://img.cdn/145.jpg,Karnataka,Hindu,Ethnic,Summer,Temple,Slim,Medium,Male,White,Cotton,Dhoti
+FASH_146,https://img.cdn/146.jpg,Goa,Christian,Western,Summer,Wedding,Petite,Fair,Female,Peach,Chiffon,Bridesmaid Dress
+FASH_147,https://img.cdn/147.jpg,Assam,Hindu,Ethnic,Spring,Bihu,Rectangle,Fair,Female,Cream,Muga,Saree
+FASH_148,https://img.cdn/148.jpg,Telangana,Muslim,Ethnic,Winter,Reception,Hourglass,Medium,Female,Red,Net,Anarkali
+FASH_149,https://img.cdn/149.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Corporate,Apple,Dusk,Male,Blue,Cotton,Shirt
+FASH_150,https://img.cdn/150.jpg,Gujarat,Hindu,Ethnic,Autumn,Garba,Slim,Fair,Male,Multi,Cotton,Kediyu
+FASH_151,https://img.cdn/151.jpg,Punjab,Sikh,Ethnic,Winter,Wedding,Rectangle,Fair,Female,Purple,Velvet,Suit
+FASH_152,https://img.cdn/152.jpg,Rajasthan,Hindu,Ethnic,Summer,Festival,Hourglass,Wheatish,Female,Yellow,Bandhani,Saree
+FASH_153,https://img.cdn/153.jpg,Kashmir,Muslim,Ethnic,Winter,Casual,Petite,Fair,Male,Grey,Wool,Pheran
+FASH_154,https://img.cdn/154.jpg,West Bengal,Hindu,Ethnic,Summer,Casual,Athletic,Medium,Male,White,Cotton,Kurta
+FASH_155,https://img.cdn/155.jpg,Kerala,Hindu,Ethnic,Summer,Wedding,Pear,Dusk,Female,White,Silk,Saree
+FASH_156,https://img.cdn/156.jpg,Delhi,None,Western,Winter,Reception,Rectangle,Fair,Male,Black,Silk,Tuxedo
+FASH_157,https://img.cdn/157.jpg,Maharashtra,Hindu,Ethnic,Summer,Festival,Hourglass,Wheatish,Female,Yellow,Silk,Saree
+FASH_158,https://img.cdn/158.jpg,Bihar,Hindu,Ethnic,Summer,Wedding,Slim,Medium,Male,Cream,Silk,Kurta
+FASH_159,https://img.cdn/159.jpg,Uttar Pradesh,Muslim,Ethnic,Winter,Nikah,Petite,Fair,Female,Green,Silk,Sharara
+FASH_160,https://img.cdn/160.jpg,Karnataka,Hindu,Ethnic,Summer,Corporate,Apple,Dusk,Female,Beige,Cotton,Kurti
+FASH_161,https://img.cdn/161.jpg,Assam,Hindu,Ethnic,Spring,Festival,Athletic,Fair,Male,Red,Cotton,Kurta
+FASH_162,https://img.cdn/162.jpg,Goa,None,Western,Summer,Beach,Slim,Fair,Female,Pink,Rayon,Maxi
+FASH_163,https://img.cdn/163.jpg,Telangana,Hindu,Ethnic,Winter,Wedding,Hourglass,Medium,Female,Blue,Silk,Lehenga
+FASH_164,https://img.cdn/164.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Temple,Rectangle,Dusk,Male,White,Silk,Veshti
+FASH_165,https://img.cdn/165.jpg,Gujarat,Hindu,Ethnic,Winter,Wedding,Pear,Fair,Female,Red,Silk,Saree
+FASH_166,https://img.cdn/166.jpg,Punjab,Sikh,Ethnic,Spring,Baisakhi,Slim,Fair,Male,Yellow,Cotton,Kurta
+FASH_167,https://img.cdn/167.jpg,Kashmir,Muslim,Ethnic,Winter,Wedding,Hourglass,Fair,Female,Blue,Velvet,Pheran
+FASH_168,https://img.cdn/168.jpg,West Bengal,Hindu,Ethnic,Autumn,Puja,Petite,Fair,Female,White,Cotton,Saree
+FASH_169,https://img.cdn/169.jpg,Rajasthan,Hindu,Ethnic,Summer,Wedding,Athletic,Wheatish,Male,Gold,Silk,Sherwani
+FASH_170,https://img.cdn/170.jpg,Delhi,None,Western,Summer,Casual,Rectangle,Fair,Female,Blue,Denim,Jeans
+FASH_171,https://img.cdn/171.jpg,Maharashtra,Hindu,Ethnic,Winter,Wedding,Hourglass,Dusk,Female,Purple,Nauvari,Saree
+FASH_172,https://img.cdn/172.jpg,Kerala,Christian,Ethnic,Summer,Wedding,Slim,Fair,Male,White,Cotton,Suit
+FASH_173,https://img.cdn/173.jpg,Uttar Pradesh,Hindu,Ethnic,Summer,Haldi,Pear,Wheatish,Female,Yellow,Cotton,Anarkali
+FASH_174,https://img.cdn/174.jpg,Karnataka,Hindu,Ethnic,Summer,Wedding,Athletic,Medium,Male,Cream,Silk,Kurta
+FASH_175,https://img.cdn/175.jpg,Assam,Hindu,Ethnic,Spring,Bihu,Hourglass,Fair,Female,Cream,Muga,Saree
+FASH_176,https://img.cdn/176.jpg,Telangana,Muslim,Ethnic,Winter,Nikah,Slim,Fair,Female,Silver,Satin,Gharara
+FASH_177,https://img.cdn/177.jpg,Goa,Christian,Western,Winter,Corporate,Rectangle,Fair,Male,Navy,Wool,Blazer
+FASH_178,https://img.cdn/178.jpg,Tamil Nadu,Hindu,Ethnic,Summer,Wedding,Pear,Dusk,Female,Red,Silk,Saree
+FASH_179,https://img.cdn/179.jpg,Gujarat,Hindu,Ethnic,Autumn,Garba,Hourglass,Fair,Female,Multi,Cotton,Lehenga
+FASH_180,https://img.cdn/180.jpg,Punjab,Sikh,Ethnic,Winter,Reception,Athletic,Fair,Male,Black,Velvet,Sherwani
+FASH_181,https://img.cdn/181.jpg,Kashmir,Muslim,Ethnic,Winter,Casual,Slim,Fair,Female,Pink,Pashmina,Shawl
+FASH_182,https://img.cdn/182.jpg,West Bengal,Hindu,Ethnic,Summer,Wedding,Rectangle,Fair,Male,Off-white,Silk,Panjabi
+FASH_183,https://img.cdn/183.jpg,Rajasthan,Hindu,Ethnic,Summer,Mehendi,Hourglass,Wheatish,Female,Green,Silk,Lehenga
+FASH_184,https://img.cdn/184.jpg,Delhi,None,Western,Winter,Party,Petite,Fair,Female,Black,Leather,Skirt
